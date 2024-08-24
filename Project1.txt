@@ -1,0 +1,14 @@
+ÖGRENCİ KAYIT SİSTEMİ
+***************************
+Ögrenci giriş ekranı
+Ögrenci detay ekrani 
+Ögretmen detay ekranı 
+
+***************************
+Bu proje, öğrencilerin ve öğretmenlerin kullanımına yönelik basit bir Öğrenci Kayıt Sistemi uygulamasıdır. Proje, üç ana bileşenden oluşmaktadır:
+
+Öğrenci Giriş Ekranı: Öğrencilerin sisteme giriş yaparak kendi akademik bilgilerini görüntüleyebilecekleri bir ekran.
+
+Öğrenci Detay Ekranı: Öğrenciler, giriş yaptıktan sonra sınav notları, ortalamaları ve geçme durumu gibi detayları bu ekranda görebilirler.
+
+Öğretmen Detay Ekranı: Öğretmenler, öğrencilerin kayıt işlemlerini gerçekleştirebilir, sınav notlarını güncelleyebilir ve sınıfın genel geçme-kalma durumunu anlık olarak takip edebilirler.
